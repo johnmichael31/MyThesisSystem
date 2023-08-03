@@ -1,0 +1,10 @@
+Installing and running laravel project
+
+1. Download composer (any version)
+2. Download xammp (8.0+ version)
+3. Download node.js (any version)
+4. Open laravel project to visual studio
+5. Open terminal
+6. Type Composer update/install, wait for the process.
+7. Open terminal and type "npm install" and if the process done you can now type "npm run dev" 
+8. Lastly open another terminal to type "php artisan serve" to run the project. 
